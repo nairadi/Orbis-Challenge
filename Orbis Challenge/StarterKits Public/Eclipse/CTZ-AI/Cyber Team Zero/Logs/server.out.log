@@ -1,0 +1,24 @@
+[69491197] Using port 4461
+[69492835] Asking 1 for move
+[69492835] Asking 0 for move
+[69535236] Got 1's move
+[69578636] Got 0's move
+[69578636] ===== Move Frame 0 ===========
+[69578636] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X  a   X   d  X
+XXXX bXXXc XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX gXXXf XXXX
+X  h   X    e X
+X      X      X
+XXXXXXXXXXXXXXX
+[69579145] Asking 1 for move
+[69579145] Asking 0 for move

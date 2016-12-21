@@ -1,0 +1,5 @@
+Updated 11:44 AM
+
+- Fixed is_mainframe returning wrong values in Python
+- Fixed wrong weapon damage and range values in Python
+- Added world.getWidth() and .getHeight() in Java

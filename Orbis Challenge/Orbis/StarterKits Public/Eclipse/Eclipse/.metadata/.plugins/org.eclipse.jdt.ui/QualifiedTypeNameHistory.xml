@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.orbischallenge.ctz.objects.Pickup"/>
+<fullyQualifiedTypeName name="com.orbischallenge.ctz.objects.enums.PickupType"/>
+<fullyQualifiedTypeName name="com.orbischallenge.ctz.objects.ControlPoint"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.orbischallenge.ctz.objects.enums.MoveResult"/>
+</qualifiedTypeNameHistroy>

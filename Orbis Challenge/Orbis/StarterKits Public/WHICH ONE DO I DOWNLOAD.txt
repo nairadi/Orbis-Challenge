@@ -1,0 +1,4 @@
+No IDE.zip - If you don't want to use an IDE, or want to one that is not listed below
+Eclipse.zip - If you want to use Java for your AI and the Eclipse (Mars or later) IDE
+IntelliJ.zip - If you want to use Java for your AI and the IntelliJ (2016.2.x or later) IDE
+PyCharm.zip - If you want to use Python for your AI and the PyCharm (Community Edition 2016.2.x or later) IDE

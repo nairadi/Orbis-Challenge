@@ -1,0 +1,1271 @@
+[77136432] Using port 4461
+Server waiting for client
+Connected player with UUID Ambersrc
+Assigned index 0 (Amber)
+Server waiting for client
+Connected player with UUID Bluesrc
+Assigned index 1 (Blue)
+[0] Ambersrc (Comm open) - sending GET_READY...
+[0] Ambersrc (Comm open) - Ready!
+[1] Bluesrc (Comm open) - sending GET_READY...
+[1] Bluesrc (Comm open) - Ready!
+[77145299] Asking 1 for move
+[77145299] Asking 0 for move
+[77145369] Got 1's move
+[77145399] Got 0's move
+[77145400] ===== Move Frame 0 ===========
+[77145401] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77147396] Asking 1 for move
+[77147396] Asking 0 for move
+[77147408] Got 0's move
+[77147416] Got 1's move
+[77147416] ===== Move Frame 1 ===========
+[77147416] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77147922] Asking 1 for move
+[77147922] Asking 0 for move
+[77147931] Got 1's move
+[77147935] Got 0's move
+[77147935] ===== Move Frame 2 ===========
+[77147936] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77148440] Asking 0 for move
+[77148440] Asking 1 for move
+[77148470] Got 0's move
+[77148480] Got 1's move
+[77148480] ===== Move Frame 3 ===========
+[77148481] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77148986] Asking 0 for move
+[77148986] Asking 1 for move
+[77148999] Got 0's move
+[77149001] Got 1's move
+[77149001] ===== Move Frame 4 ===========
+[77149002] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77149505] Asking 1 for move
+[77149505] Asking 0 for move
+[77149521] Got 0's move
+[77149526] Got 1's move
+[77149527] ===== Move Frame 5 ===========
+[77149527] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77150030] Asking 0 for move
+[77150030] Asking 1 for move
+[77150055] Got 0's move
+[77150080] Got 1's move
+[77150081] ===== Move Frame 6 ===========
+[77150081] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77150589] Asking 1 for move
+[77150589] Asking 0 for move
+[77150594] Got 0's move
+[77150597] Got 1's move
+[77150598] ===== Move Frame 7 ===========
+[77150598] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77151101] Asking 1 for move
+[77151102] Asking 0 for move
+[77151113] Got 1's move
+[77151114] Got 0's move
+[77151115] ===== Move Frame 8 ===========
+[77151115] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77151617] Asking 0 for move
+[77151617] Asking 1 for move
+[77151624] Got 0's move
+[77151632] Got 1's move
+[77151632] ===== Move Frame 9 ===========
+[77151633] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77152135] Asking 1 for move
+[77152135] Asking 0 for move
+[77152142] Got 1's move
+[77152145] Got 0's move
+[77152145] ===== Move Frame 10 ===========
+[77152146] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77152649] Asking 1 for move
+[77152649] Asking 0 for move
+[77152679] Got 1's move
+[77152681] Got 0's move
+[77152682] ===== Move Frame 11 ===========
+[77152682] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77153185] Asking 0 for move
+[77153185] Asking 1 for move
+[77153203] Got 0's move
+[77153225] Got 1's move
+[77153226] ===== Move Frame 12 ===========
+[77153226] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77153730] Asking 0 for move
+[77153730] Asking 1 for move
+[77153736] Got 1's move
+[77153743] Got 0's move
+[77153744] ===== Move Frame 13 ===========
+[77153744] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77154246] Asking 0 for move
+[77154246] Asking 1 for move
+[77154273] Got 0's move
+[77154276] Got 1's move
+[77154276] ===== Move Frame 14 ===========
+[77154276] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77154779] Asking 0 for move
+[77154779] Asking 1 for move
+[77154797] Got 1's move
+[77154801] Got 0's move
+[77154802] ===== Move Frame 15 ===========
+[77154802] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77155304] Asking 0 for move
+[77155304] Asking 1 for move
+[77155321] Got 1's move
+[77155328] Got 0's move
+[77155328] ===== Move Frame 16 ===========
+[77155328] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77155832] Asking 0 for move
+[77155832] Asking 1 for move
+[77155837] Got 1's move
+[77155855] Got 0's move
+[77155855] ===== Move Frame 17 ===========
+[77155856] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77156362] Asking 1 for move
+[77156362] Asking 0 for move
+[77156365] Got 1's move
+[77156367] Got 0's move
+[77156367] ===== Move Frame 18 ===========
+[77156367] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77156870] Asking 1 for move
+[77156870] Asking 0 for move
+[77156879] Got 0's move
+[77156883] Got 1's move
+[77156883] ===== Move Frame 19 ===========
+[77156883] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77157386] Asking 1 for move
+[77157386] Asking 0 for move
+[77157391] Got 1's move
+[77157393] Got 0's move
+[77157393] ===== Move Frame 20 ===========
+[77157393] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77157895] Asking 0 for move
+[77157895] Asking 1 for move
+[77157904] Got 1's move
+[77157914] Got 0's move
+[77157914] ===== Move Frame 21 ===========
+[77157915] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77158417] Asking 0 for move
+[77158417] Asking 1 for move
+[77158420] Got 0's move
+[77158423] Got 1's move
+[77158423] ===== Move Frame 22 ===========
+[77158423] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77158925] Asking 0 for move
+[77158925] Asking 1 for move
+[77158933] Got 1's move
+[77158938] Got 0's move
+[77158938] ===== Move Frame 23 ===========
+[77158939] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77159442] Asking 0 for move
+[77159442] Asking 1 for move
+[77159444] Got 1's move
+[77159445] Got 0's move
+[77159445] ===== Move Frame 24 ===========
+[77159446] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77159948] Asking 1 for move
+[77159948] Asking 0 for move
+[77159953] Got 0's move
+[77159956] Got 1's move
+[77159956] ===== Move Frame 25 ===========
+[77159956] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77160459] Asking 0 for move
+[77160459] Asking 1 for move
+[77160478] Got 1's move
+[77160481] Got 0's move
+[77160482] ===== Move Frame 26 ===========
+[77160482] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77160984] Asking 0 for move
+[77160984] Asking 1 for move
+[77160987] Got 0's move
+[77160988] Got 1's move
+[77160988] ===== Move Frame 27 ===========
+[77160988] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77161491] Asking 0 for move
+[77161491] Asking 1 for move
+[77161499] Got 0's move
+[77161508] Got 1's move
+[77161509] ===== Move Frame 28 ===========
+[77161509] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77162011] Asking 0 for move
+[77162011] Asking 1 for move
+[77162015] Got 1's move
+[77162025] Got 0's move
+[77162025] ===== Move Frame 29 ===========
+[77162025] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77162529] Asking 1 for move
+[77162529] Asking 0 for move
+[77162536] Got 0's move
+[77162538] Got 1's move
+[77162538] ===== Move Frame 30 ===========
+[77162538] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77163039] Asking 1 for move
+[77163039] Asking 0 for move
+[77163049] Got 1's move
+[77163055] Got 0's move
+[77163055] ===== Move Frame 31 ===========
+[77163055] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77163557] Asking 1 for move
+[77163557] Asking 0 for move
+[77163563] Got 0's move
+[77163571] Got 1's move
+[77163572] ===== Move Frame 32 ===========
+[77163572] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77164074] Asking 0 for move
+[77164074] Asking 1 for move
+[77164077] Got 0's move
+[77164077] Got 1's move
+[77164077] ===== Move Frame 33 ===========
+[77164077] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77164579] Asking 0 for move
+[77164579] Asking 1 for move
+[77164583] Got 1's move
+[77164587] Got 0's move
+[77164588] ===== Move Frame 34 ===========
+[77164588] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77165090] Asking 1 for move
+[77165090] Asking 0 for move
+[77165093] Got 1's move
+[77165095] Got 0's move
+[77165096] ===== Move Frame 35 ===========
+[77165096] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77165598] Asking 0 for move
+[77165598] Asking 1 for move
+[77165602] Got 0's move
+[77165603] Got 1's move
+[77165604] ===== Move Frame 36 ===========
+[77165604] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77166105] Asking 0 for move
+[77166105] Asking 1 for move
+[77166110] Got 1's move
+[77166122] Got 0's move
+[77166122] ===== Move Frame 37 ===========
+[77166122] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77166624] Asking 0 for move
+[77166624] Asking 1 for move
+[77166626] Got 0's move
+[77166627] Got 1's move
+[77166627] ===== Move Frame 38 ===========
+[77166627] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77167130] Asking 0 for move
+[77167130] Asking 1 for move
+[77167132] Got 0's move
+[77167136] Got 1's move
+[77167136] ===== Move Frame 39 ===========
+[77167136] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77167639] Asking 1 for move
+[77167639] Asking 0 for move
+[77167645] Got 1's move
+[77167648] Got 0's move
+[77167648] ===== Move Frame 40 ===========
+[77167648] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77168149] Asking 1 for move
+[77168149] Asking 0 for move
+[77168159] Got 0's move
+[77168161] Got 1's move
+[77168162] ===== Move Frame 41 ===========
+[77168162] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77168665] Asking 1 for move
+[77168665] Asking 0 for move
+[77168680] Got 1's move
+[77168717] Got 0's move
+[77168717] ===== Move Frame 42 ===========
+[77168718] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77169220] Asking 0 for move
+[77169220] Asking 1 for move
+[77169223] Got 1's move
+[77169226] Got 0's move
+[77169227] ===== Move Frame 43 ===========
+[77169227] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77169729] Asking 0 for move
+[77169729] Asking 1 for move
+[77169732] Got 0's move
+[77169733] Got 1's move
+[77169733] ===== Move Frame 44 ===========
+[77169733] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77170234] Asking 0 for move
+[77170234] Asking 1 for move
+[77170239] Got 1's move
+[77170240] Got 0's move
+[77170240] ===== Move Frame 45 ===========
+[77170240] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77170742] Asking 1 for move
+[77170742] Asking 0 for move
+[77170748] Got 1's move
+[77170762] Got 0's move
+[77170763] ===== Move Frame 46 ===========
+[77170763] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77171264] Asking 0 for move
+[77171264] Asking 1 for move
+[77171267] Got 1's move
+[77171269] Got 0's move
+[77171269] ===== Move Frame 47 ===========
+[77171269] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77171771] Asking 1 for move
+[77171771] Asking 0 for move
+[77171781] Got 1's move
+[77171792] Got 0's move
+[77171792] ===== Move Frame 48 ===========
+[77171792] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77172293] Asking 0 for move
+[77172293] Asking 1 for move
+[77172297] Got 1's move
+[77172303] Got 0's move
+[77172303] ===== Move Frame 49 ===========
+[77172303] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77172804] Asking 0 for move
+[77172804] Asking 1 for move
+[77172807] Got 1's move
+[77172808] Got 0's move
+[77172808] ===== Move Frame 50 ===========
+[77172808] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77173309] Asking 1 for move
+[77173309] Asking 0 for move
+[77173316] Got 0's move
+[77173338] Got 1's move
+[77173338] ===== Move Frame 51 ===========
+[77173338] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77173839] Asking 1 for move
+[77173839] Asking 0 for move
+[77173842] Got 1's move
+[77173844] Got 0's move
+[77173844] ===== Move Frame 52 ===========
+[77173844] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77174346] Asking 1 for move
+[77174346] Asking 0 for move
+[77174351] Got 1's move
+[77174354] Got 0's move
+[77174354] ===== Move Frame 53 ===========
+[77174354] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77174856] Asking 1 for move
+[77174856] Asking 0 for move
+[77174859] Got 1's move
+[77174861] Got 0's move
+[77174861] ===== Move Frame 54 ===========
+[77174862] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77175363] Asking 1 for move
+[77175363] Asking 0 for move
+[77175365] Got 1's move
+[77175374] Got 0's move
+[77175374] ===== Move Frame 55 ===========
+[77175374] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77175876] Asking 0 for move
+[77175876] Asking 1 for move
+[77175879] Got 0's move
+[77175880] Got 1's move
+[77175881] ===== Move Frame 56 ===========
+[77175881] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77176382] Asking 0 for move
+[77176383] Asking 1 for move
+[77176385] Got 0's move
+[77176386] Got 1's move
+[77176387] ===== Move Frame 57 ===========
+[77176387] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77176888] Asking 0 for move
+[77176888] Asking 1 for move
+[77176890] Got 0's move
+[77176890] Got 1's move
+[77176890] ===== Move Frame 58 ===========
+[77176890] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
+[77177392] Asking 1 for move
+[77177392] Asking 0 for move
+[77177395] Got 1's move
+[77177401] Got 0's move
+[77177401] ===== Move Frame 59 ===========
+[77177401] ==============================
+XXXXXXXXXXXXXXX
+X      X      X
+X a   bXc   d X
+XXXX  XXX  XXXX
+X  +       +  X
+X      +      X
+X             X
+XN           NX
+X             X
+X      +      X
+X  +       +  X
+XXXX  XXX  XXXX
+X h   gXf     X
+X      X     eX
+XXXXXXXXXXXXXXX
